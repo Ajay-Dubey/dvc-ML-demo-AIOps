@@ -2,5 +2,5 @@ dvc
 pandas
 scikit-learn
 
-# local Packages -
-- e .
+#local Packages -
+-e .
